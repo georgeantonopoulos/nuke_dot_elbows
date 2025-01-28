@@ -4,6 +4,17 @@ A Nuke script to create dots that organize the node graph, ensuring input stream
 
 Select a node that has single or multiple inputs, where the inputs are straigt and run the script.
 
+## Example
+
+Before running Elbows:
+
+![Before Elbows](before_elbows.png)
+
+After running Elbows:
+
+![After Elbows](after_elbows.png)
+
+
 ## Installation
 
 1. **Place the Script:**
